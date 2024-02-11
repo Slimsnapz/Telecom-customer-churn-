@@ -22,7 +22,7 @@ Problem Solving<br>
 Critical Thinking<br>
 ### Key Features<br>
 Utilizes logistic regression to predict customer churn.
-Displays the probability of customer churning in percentage.
+Displays the probability of customer churning.
 Provides feature importance analysis of the variables.<br>
 ### Project Images<br>
 [Insert image of project visualization here]
