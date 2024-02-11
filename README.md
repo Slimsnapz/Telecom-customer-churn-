@@ -41,8 +41,7 @@ Provides feature importance analysis of the variables.<br>
 ### Dataset Used<br>
 The project uses WA_Fn-UseC_-Telco-Customer-Churn.csv for analysis. The dataset contains customer data such as CustomerID, Gender, Senior citizen, partner, dependent, tenure, phone service, Multiplelines, internet service, online security, online backup, Device protection, Tech support, streaming Tv, streaminovies, contract, paperless, payment method, monthly charges, total charges, churn.<br>
 ### Result Obtained<br>
-After training the model, the project achieved 
-[accuracy/precision/recall] of [result]% on the test dataset.<br>
+After training the model, the project achieved an accuracy of 76% on the test dataset.<br>
 <br>
 Feel free to customize the content and formatting as needed for your
 GitHub readme documentation. Let me know if you need further assistance!
