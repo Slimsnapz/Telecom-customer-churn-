@@ -25,6 +25,7 @@ Utilizes logistic regression to predict customer churn.
 Displays the probability of customer churning.
 Provides feature importance analysis of the variables.<br>
 ### Project Images<br>
+![](charts_telco_customer_churn.ipynb)
 [Insert image of project visualization here]
 [Insert image of feature importance analysis here]
 [Insert image of result obtained after training the model here]<br>
