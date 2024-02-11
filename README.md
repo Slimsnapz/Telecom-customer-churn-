@@ -32,7 +32,9 @@ Provides feature importance analysis of the variables.<br>
 ![](IMG_20240211_084417.jpg)
 
 #### Code snippet<br>
-![](IMG_20240211_084109.jpg)
+![](Screenshot_2024-02-11-08-58-06-71_e2d5b3f32b79de1d45acd1fad96fbb0f.jpgIMG_20240211_084109.jpg)
+![](IMG_20240211_091136.jpgIMG_20240211_084109.jpg)
+![](Screenshot_2024-02-11-08-57-56-43_e2d5b3f32b79de1d45acd1fad96fbb0f.jpgIMG_20240211_084109.jpg)
 [Insert image of feature importance analysis here]
 [Insert image of result obtained after training the model here]<br>
 ### Dataset Used<br>
