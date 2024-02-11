@@ -12,6 +12,7 @@ Machine Learning<br>
 Jupyter Notebook<br>
 Python<br>
 Logistic Regression<br>
+sk-learn<br>
 Matplotlib<br>
 Seaborn<br>
 Data Visualization<br>
