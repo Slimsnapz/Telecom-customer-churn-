@@ -36,7 +36,8 @@ Provides feature importance analysis of the variables.<br>
 ![](Screenshot_2024-02-11-08-57-56-43_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg)
 #### feature importance 
 ![](IMG_20240211_091136.jpg)
-[Insert image of result obtained after training the model here]<br>
+#### result obtained<br>
+![](Screenshot_2024-02-11-08-58-06-71_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg)
 ### Dataset Used<br>
 The project uses [dataset name] for analysis. The dataset contains 
 [description of dataset].<br>
