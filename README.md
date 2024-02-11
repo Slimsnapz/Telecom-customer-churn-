@@ -25,11 +25,14 @@ Utilizes logistic regression to predict customer churn.
 Displays the probability of customer churning.
 Provides feature importance analysis of the variables.<br>
 ### Project Images<br>
+#### Charts
 ![](IMG_20240211_084109.jpg)
 ![](IMG_20240211_084234.jpg)
 ![](IMG_20240211_084327.jpg)
 ![](IMG_20240211_084417.jpg)
-[Insert image of project visualization here]
+
+#### Code snippet<br>
+![](IMG_20240211_084109.jpg)
 [Insert image of feature importance analysis here]
 [Insert image of result obtained after training the model here]<br>
 ### Dataset Used<br>
